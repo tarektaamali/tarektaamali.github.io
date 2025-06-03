@@ -6,7 +6,7 @@ position: "Mobile Developer"
 links:
   # - url: "https://github.com/theo-michel"
   #   icon: "fab fa-github"
-  - url: "https://www.linkedin.com/in/theo-michel42/"
+  - url: "https://www.linkedin.com/in/ttaamalli/"
     icon: "fab fa-linkedin"
 details:
   - key: "Age"
@@ -20,7 +20,7 @@ details:
   - key: "E-mail"
     value: "tarek.taamali@gmail.com"
   - key: "CV Website"
-    value: "https://theo-michel.github.io/resume/"
+    value: "https://tarektaamali.github.io/resume/"
   - key: "Interests"
     value: "Science-Fiction, AI, MMA, Volley-Ball"
 description: "Experienced Software Engineer."
@@ -30,11 +30,11 @@ description: "Experienced Software Engineer."
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 
 jobs:
-  - date: "Aug 2024 - Present"
-    company: "Topo"
-    logo: "img/logo/topo.png"
+  - date: "Nov 2021 - Present"
+    company: "Inetum"
+    logo: "img/logo/inetum.png"
     arrow: 50
-    position: "FOUNDING AI ENGINEER • Full Time • Paris"
+    position: "FOUNDING AI ENGINEER • Full Time • Tunis"
     description: "• Helped Topo build the future of AI SDRs.
     
    • Implemented an LLM based agents able to scrape the web, in order to find the best leads, and then contact them with the best message.
