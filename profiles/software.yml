@@ -1,0 +1,18 @@
+jobs:
+  - topo
+  - tesla
+  - snow
+  - connecteur
+  - wellputt
+  - simbals
+  - big_tilt
+projects:
+  - sande
+  - hackaton
+  - dark_forest
+  - dim_red
+  - drone
+  - dreamer_v2
+  - sim_clr
+  - ai_data_challenge
+  - hexapod
