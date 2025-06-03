@@ -31,9 +31,9 @@ description: "Experienced Software Engineer."
 
 jobs:
   - date: "Nov 2021 - Present"
-    company: "Inetum"
+    company: "Inet"
     logo: "img/logo/inetum.png"
-    arrow: 50
+    arrow: 25
     position: "FOUNDING AI ENGINEER • Full Time • Tunis"
     description: "• Helped Topo build the future of AI SDRs.
     
