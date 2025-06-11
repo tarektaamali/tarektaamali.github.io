@@ -168,7 +168,7 @@ jobs:
     company: "CANADIAN SYSTEM TECHNOLOGY"
     logo: "img/logo/cst.jpg"
     arrow: 50
-    position: "Mobile Developer  • intern • Tunis"
+    position: "Mobile Developer  • Intern • Tunis"
     description: "• Developed a pre-sales Android application for pharmaceutical sales representatives, enabling product presentation, client prospecting, and order placement. Fully integrated with the company's ERP system, the app streamlined sales operations and improved field efficiency across the commercial team."
     badges:
       - name: "Ionic"
@@ -180,7 +180,7 @@ jobs:
     company: "Kromberg & Schubert"
     logo: "img/logo/kroshu.jpg"
     arrow: 50
-    position: "Developer • intern • Tunisia"
+    position: "Developer • Intern • Tunisia"
     description: "• Developed an Android application connected to an Arduino-based electronic board with integrated sensors (temperature, humidity, gas), enabling real-time environmental monitoring and mobile interaction."
     badges:
       - name: "Android"
