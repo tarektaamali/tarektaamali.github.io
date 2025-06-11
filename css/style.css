@@ -6930,10 +6930,6 @@ img, video {
        column-gap: 2.5rem;
 }
 
-.self-center {
-  align-self: center;
-}
-
 .overflow-hidden {
   overflow: hidden;
 }
