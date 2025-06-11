@@ -61,7 +61,7 @@ jobs:
       - name: "Flutter"
         icon: "img/ico/flutter.png"
       - name: "Appflow"
-        icon: "img/ico/Appflow.png"    
+        icon: "img/ico/appflow.png"    
       - name: "App Store"
         icon: "img/ico/appstore2.png"    
       - name: "Android"
