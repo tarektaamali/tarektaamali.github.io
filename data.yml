@@ -276,23 +276,6 @@ references:
 
 
 projects:
-  - date: "2025"
-    name: "SAND·E: Beach Cleaning Robot"
-    position: "TECH LEAD - 1ST PLACE WINNER"
-    description: "Won 1st place at Europe's largest robotics hackathon (Hugging Face x Mistral AI). Built SAND·E, a WALL·E-inspired beach-cleaning robot that identifies and collects trash on sandy terrain. Implemented computer vision for terrain navigation, Mistral Small 24B for object classification, and an ACT policy for grasping. Added voice interaction via ElevenLabs for a complete human-robot interaction experience."
-    badges:
-    - name: "Python"
-      icon: "img/ico/python.png"
-    - name: "Computer Vision"
-      icon: "img/ico/open-cv.png"
-    - name: "Mistral AI"
-      icon: "img/ico/mistral.png"  
-    - name: "Hugging Face" 
-      icon: "img/ico/hf.png"
-    - name: "ROS"
-      icon: "img/ico/ros.png"
-    id: sande
-    link: https://www.linkedin.com/posts/theo-michel42_we-just-won-1st-place-at-the-largest-robotics-activity-7317586101198618624-31AQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRYO70Bv_aVH2SLmEMVNNW95CEPdLHmCV4
 
 skills:
 #  - icon: fas fa-robot
