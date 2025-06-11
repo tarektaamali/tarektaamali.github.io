@@ -256,11 +256,6 @@ references:
     email: "wahid.mgaidi@inetum.com"
     relationship: ""
 
-  - name: "Wajdi Madani"
-    position: "CEO of Mad Impact"
-    phone: "+33 xxxxxxxxxx" # You'll need to confirm this is his Mad Impact phone
-    email: "xxx.xxxx@xxx.com" # Assuming domain; please verify
-    relationship: "CEO of Mad Impact"
 
   - name: "Nidhal Abbassi"
     position: "CEO of Myga Consulting" # Or 'Head', 'Director', 'CEO' if that's his specific title at Myga Consulting
@@ -268,6 +263,11 @@ references:
     email: "nidhal.abbassi@mygaconsulting.com" # Assuming domain; please verify
     relationship: "CEO of Myga Consulting"
 
+  - name: "Wajdi Madani"
+    position: "CEO of Mad Impact"
+    phone: "+33 xxxxxxxxxx" # You'll need to confirm this is his Mad Impact phone
+    email: "xxx.xxxx@xxx.com" # Assuming domain; please verify
+    relationship: "CEO of Mad Impact"
 
 projects:
   - date: "2025"
