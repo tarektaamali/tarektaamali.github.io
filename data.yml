@@ -269,6 +269,13 @@ references:
 
 
 projects:
+  - date: "2025"
+    name: ""
+    position: "TECH"
+    description: ""
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
 
 skills:
 #  - icon: fas fa-robot
