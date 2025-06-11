@@ -22,7 +22,7 @@ details:
   - key: "CV Website"
     value: "https://tarektaamali.github.io/resume/"
   - key: "Interests"
-    value: "Science-Fiction, AI, MMA, Tech & self-improvement podcasts"
+    value: "Science-Fiction, AI, MMA, Tech & self-improvement podcasts ."
 description: "Mobile Developer."
 
 # description: "Dedicated to enhancing humans through AI. With a strong background of 4+ years in software engineering and AI research, I am confident in my ability to make a meaningful contribution to applied ML, and Software Engineering endeavours."
@@ -265,7 +265,7 @@ references:
     relationship: "Freelance supervisor on the CED MDA Flutter migration project"
     logo: "img/logo/ced.png"
     date: "Feb 2025 – Present"
-    
+
   - name: "Sarah Ben Ali"
     position: "CTO at CED Tunisia"
     phone: "+216 98 765 432"
