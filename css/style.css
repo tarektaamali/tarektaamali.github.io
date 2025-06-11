@@ -7115,6 +7115,11 @@ img, video {
   color: rgba(107, 114, 128, var(--tw-text-opacity));
 }
 
+.text-gray-600 {
+  --tw-text-opacity: 1;
+  color: rgba(75, 85, 99, var(--tw-text-opacity));
+}
+
 .text-gray-700 {
   --tw-text-opacity: 1;
   color: rgba(55, 65, 81, var(--tw-text-opacity));
@@ -7143,6 +7148,10 @@ img, video {
 .dark .dark\:text-yellow-200 {
   --tw-text-opacity: 1;
   color: rgba(253, 230, 138, var(--tw-text-opacity));
+}
+
+.hover\:underline:hover {
+  text-decoration: underline;
 }
 
 .opacity-30 {
