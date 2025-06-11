@@ -250,29 +250,22 @@ educations:
       - Embedded Systems
       - Mobile App Development
 references:
-  - name: "John Doe"
-    position: "Project Manager at Mad-Impact"
+  - name: "Wahid Mgaidi"
+    position: "Project Manager at Inetum"
     phone: "+216 12 345 678"
-    email: "john.doe@example.com"
-    relationship: "Direct supervisor on multiple mobile app projects including FoodLine and Côté Puce"
-    logo: "img/logo/madimpact.png"
-    date: "Apr 2021 – Oct 2021"
+    email: "wahid.mgaidi@inetum.com"
+    relationship: ""
+
+  - name: "Sarah Ben Ali"
+    position: ""
+    phone: "+216 98 765 432"
+    email: ""
+    relationship: "Freelance supervisor on the CED MDA Flutter migration project"
 
   - name: "Sarah Ben Ali"
     position: "CTO at CED Tunisia"
     phone: "+216 98 765 432"
-    email: "sarah.benali@ced.tn"
-    relationship: "Freelance supervisor on the CED MDA Flutter migration project"
-    logo: "img/logo/ced.png"
-    date: "Feb 2025 – Present"
-
-  - name: "Sarah Ben Ali"
-    position: "CTO at CED Tunisia"
-    phone: "+216 98 765 432"
-    email: "sarah.benali@ced.tn"
-    relationship: "Freelance supervisor on the CED MDA Flutter migration project"
-    logo: "img/logo/ced.png"
-    date: "Feb 2025 – Present"
+    email: "sarah.benalijj"
 
 
 projects:
