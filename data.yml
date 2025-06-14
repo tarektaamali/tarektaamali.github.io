@@ -20,7 +20,7 @@ details:
   - key: "E-mail"
     value: "tarek.taamali@gmail.com"
   - key: "CV Website"
-    value: "https://tarektaamali.github.io/resume/"
+    value: "https://tarektaamali.github.io/"
   - key: "Interests"
     value: "Science-Fiction, AI, MMA, Tech & self-improvement podcasts ."
 description: "Mobile Developer."
@@ -115,7 +115,7 @@ jobs:
       - name: "Maps"
         icon: "img/ico/google-maps.png"     
       - name: "iOS"
-        icon: "img/ico/iOS.png"          
+        icon: "img/ico/ios.png"          
       - name: "Android"
         icon: "img/ico/android.png"          
     link: https://www.tesla.com/
