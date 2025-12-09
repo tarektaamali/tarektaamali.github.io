@@ -30,7 +30,7 @@ description: "Mobile Developer."
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 
 jobs:
-  - date: "Aout 2025 - Decmber 2025"
+  - date: "August 2025 - December 2025"
     company: "Al-Safwa Voyages et Services"
     logo: "img/logo/alsafwa.png"
     arrow: 50
@@ -268,6 +268,12 @@ educations:
       - Embedded Systems
       - Mobile App Development
 references:
+  - name: "Zied Alhelali"
+    position: "Gérant, Agence Al-Safwa"
+    phone: "+216 98 xxx xxx"
+    email: "xxxxxxxx@gmail.com"
+    relationship: "Managed collaboration on the Al-Safwa travel app project"
+
   - name: "Wahid Mgaidi"
     position: "Project Manager at Inetum"
     phone: "+216 29 404 995"
