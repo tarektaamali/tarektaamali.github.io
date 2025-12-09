@@ -30,6 +30,24 @@ description: "Mobile Developer."
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 
 jobs:
+  - date: "Aout 2025 - Decmber 2025"
+    company: "Al-Safwa Voyages et Services"
+    logo: "img/logo/alsafwa.png"
+    arrow: 50
+    position: "Mobile Developer • Freelance • Remote"
+    description: "Built the Al-Safwa travel app for Android and iOS to browse offers, book trips, and complete online payments. Launched publicly with 500+ downloads (approaching 1k users)."
+    badges:
+      - name: "Flutter"
+        icon: "img/ico/flutter.png"
+      - name: "Android"
+        icon: "img/ico/android.png"
+      - name: "iOS"
+        icon: "img/ico/ios.png"
+      - name: "Firebase"
+        icon: "img/ico/firebase.png"
+    id: al_safwa
+    link:
+
   - date: "February 2025 - Juin 2025"
     company: "Myga Consulting"
     logo: "img/logo/myga_consulting_logo.jpeg"
