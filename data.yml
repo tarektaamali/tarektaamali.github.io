@@ -298,17 +298,17 @@ projects:
     link: https://github.com/tarektaamali/income-outcome
 
 courses:
-  - date: "2025 - In Progress"
+  - date: "2025 - In Progress (22 of 237 complete - 4 Janvier 2026)"
     name: "The Complete Prompt Engineering for AI Bootcamp (2025)"
     instructor: "Mike Taylor (Prompt Engineer), James Phoenix (Full Stack Data Engineer)"
-    description: "Learn practical coding skills for working professionally with AI, including GPT-5, Veo3, Midjourney, & GitHub Copilot."
+    description: "Learn practical coding skills for working professionally with AI, including GPT-5, Veo3, Midjourney, & GitHub Copilot. Progress: 22 of 237 lessons completed."
     badges:
       - name: "Python"
         icon: "img/ico/python.png"
-  - date: "2025 - In Progress"
+  - date: "2025 - In Progress (0 of 92 complete - 4 Janvier 2026)"
     name: "AI Automation: Build LLM Apps & AI-Agents with n8n & APIs"
     instructor: "Arnold Oberleiter"
-    description: "Automate Everything: n8n, LLMs, OpenAI API, Claude, Ollama, MCP & RAG! Business & Private Agents; More than just ChatGPT"
+    description: "Automate Everything: n8n, LLMs, OpenAI API, Claude, Ollama, MCP & RAG! Business & Private Agents; More than just ChatGPT. Progress: 0 of 92 lessons completed."
     badges:
       - name: "Python"
         icon: "img/ico/python.png"
