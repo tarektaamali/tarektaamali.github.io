@@ -1,6 +1,6 @@
 jobs:
-  - topo
   - al_safwa
+  - topo
   - tesla
   - snow
   - connecteur
@@ -8,6 +8,7 @@ jobs:
   - simbals
   - big_tilt
 projects:
+  - income_outcome
   - sande
   - hackaton
   - dark_forest

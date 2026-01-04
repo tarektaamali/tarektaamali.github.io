@@ -53,6 +53,9 @@
         <a href="#achievements-projects">
             <div>RESEARCH & PROJECTS</div>
         </a>
+        <a href="#courses">
+            <div>COURSES</div>
+        </a>
         <a href="#skills-interests">
             <div>SKILLS & KNOWLEDGE</div>
         </a>
@@ -368,6 +371,46 @@
                                                     </div>
                                                     <%} %>
                                             </div>
+                    </div>
+                </div>
+                <%} %>
+        </section>
+        <div class="my-10"></div>
+        <h2 id="courses"><i class="fas fa-graduation-cap"></i> UDEMY COURSES</h2>
+        <section class="flex flex-wrap gap-x-6 px-2">
+            <% for(let course of courses || []){ %>
+                <div class="relative project-block-wrapper self-center" style="flex: 1 0 270px;">
+                    <div class="timeline-block project-block animate__animated">
+                        <% if (course.link) { %>
+                            <a class="absolute" href="<%= course.link %>" target="_blank"><i
+                                    class="fas fa-link opacity-50 hover:opacity-100"></i></a>
+                        <% }%>
+                        <div class="date">
+                            <%= course.date %>
+                        </div>
+                        <h3>
+                            <%= course.name %>
+                        </h3>
+                        <% if (course.instructor) { %>
+                            <p class="position">
+                                <%= course.instructor %>
+                            </p>
+                        <% } %>
+                        <p class="text-justify">
+                            <%= course.description %>
+                        </p>
+                        <% if (course.badges && course.badges.length > 0) { %>
+                            <div class="badge-block">
+                                <% const badges=[...course.badges].reverse(); for(let badge of badges || []){ %>
+                                    <div class="has-tooltip">
+                                        <span class="tooltip">
+                                            <%= badge.name %>
+                                        </span>
+                                        <img alt="<%= badge.name %> logo" src="<%= badge.icon %>">
+                                    </div>
+                                    <%} %>
+                            </div>
+                        <% } %>
                     </div>
                 </div>
                 <%} %>

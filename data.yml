@@ -35,7 +35,9 @@ jobs:
     logo: "img/logo/alsafwa.png"
     arrow: 50
     position: "Mobile Developer • Freelance • Remote"
-    description: "Built the Al-Safwa travel app for Android and iOS to browse offers, book trips, and complete online payments. Launched publicly with 500+ downloads (approaching 1k users)."
+    description: "• Built the Al-Safwa travel app for Android and iOS to browse travel offers, book trips, and complete online payments. Launched publicly with 500+ downloads (approaching 1k users).
+
+        • Available on Google Play (https://play.google.com/store/apps/details?id=com.alsafwa.sfomra) and App Store (https://apps.apple.com/tn/app/al-safwa/id6754294047) for both Android and iOS platforms."
     badges:
       - name: "Flutter"
         icon: "img/ico/flutter.png"
@@ -46,8 +48,7 @@ jobs:
       - name: "Firebase"
         icon: "img/ico/firebase.png"
     id: al_safwa
-    link:
-
+    link: https://play.google.com/store/apps/details?id=com.alsafwa.sfomra&hl=fr
   - date: "February 2025 - Juin 2025"
     company: "Myga Consulting"
     logo: "img/logo/myga_consulting_logo.jpeg"
@@ -68,7 +69,6 @@ jobs:
       - name: "iOS"
         icon: "img/ico/ios.png"
     id: big_tilt
-    link: https://wellputt.com/us/cms/10-bigtilt-concept   
   - date: "Nov 2021 - Present"
     company: "Inetum"
     logo: "img/logo/inetum.jpeg"
@@ -116,7 +116,7 @@ jobs:
       - name: "iOS"
         icon: "img/ico/ios.png"  
     id: big_tilt
-    link: https://wellputt.com/us/cms/10-bigtilt-concept
+    link: https://mad-impact.com/
 
 
   - date: "Feb 2021 - Oct 2021"
@@ -136,7 +136,6 @@ jobs:
         icon: "img/ico/ios.png"          
       - name: "Android"
         icon: "img/ico/android.png"          
-    link: https://www.tesla.com/
     id: tesla
 
   - date: "Nov 2019 - January 2021"
@@ -166,7 +165,6 @@ jobs:
       - name: "Stripe"
         icon: "img/ico/stripe.png"
 
-    link: https://snow-cannon-gmao-website.firebaseapp.com/
     id: snow
 
   - date: "May 2020 - July 2020"
@@ -179,7 +177,6 @@ jobs:
       - name: "Flutter"
         icon: "img/ico/flutter.png"
     id: wellputt
-    link: https://play.google.com/store/apps/details?id=com.wellputt.wellputt
  
 
   - date: "February 2019 – June 2019"
@@ -191,7 +188,7 @@ jobs:
     badges:
       - name: "Ionic"
         icon: "img/ico/ionic6.png"
-    link: https://www.leconnecteur-biarritz.fr/
+    link: https://cst.tn/
     id: connecteur
 
   - date: "February 2016 – June 2016"
@@ -209,7 +206,7 @@ jobs:
         icon: "img/ico/sensors.png"
 
     id: simbals
-    link: https://www.simbals.com/
+    link: https://www.kromberg-schubert.com/home
 educations:
   - date: "Feb 2016 - Apr 2016"
     degree: "Mobile App Development Training"
@@ -268,12 +265,6 @@ educations:
       - Embedded Systems
       - Mobile App Development
 references:
-  - name: "Zied Alhelali"
-    position: "Gérant, Agence Al-Safwa"
-    phone: "+216 98 xxx xxx"
-    email: "xxxxxxxx@gmail.com"
-    relationship: "Managed collaboration on the Al-Safwa travel app project"
-
   - name: "Wahid Mgaidi"
     position: "Project Manager at Inetum"
     phone: "+216 29 404 995"
@@ -294,13 +285,33 @@ references:
     relationship: "CEO of Mad Impact"
 
 projects:
-  - date: "2025"
-    name: ""
-    position: "TECH"
-    description: ""
+  - date: "2025 - In Progress"
+    name: "Personal Finance Management"
+    position: "Full Stack Developer"
+    description: "A comprehensive personal finance management system built with Spring Boot REST API backend and Flutter mobile application. Features include income/expense tracking, category management, recurring transactions, monthly summaries, and JWT-based authentication. The Spring Boot backend is complete with PostgreSQL database, Flyway migrations, and comprehensive REST endpoints. This project is being developed for learning purposes and to refresh knowledge of Spring Boot and Flutter best practices."
     badges:
-    - name: "Python"
-      icon: "img/ico/python.png"
+      - name: "Flutter"
+        icon: "img/ico/flutter.png"
+      - name: "PostgreSQL"
+        icon: "img/ico/postgresql.png"
+    id: income_outcome
+    link: https://github.com/tarektaamali/income-outcome
+
+courses:
+  - date: "2025 - In Progress"
+    name: "The Complete Prompt Engineering for AI Bootcamp (2025)"
+    instructor: "Mike Taylor (Prompt Engineer), James Phoenix (Full Stack Data Engineer)"
+    description: "Learn practical coding skills for working professionally with AI, including GPT-5, Veo3, Midjourney, & GitHub Copilot."
+    badges:
+      - name: "Python"
+        icon: "img/ico/python.png"
+  - date: "2025 - In Progress"
+    name: "AI Automation: Build LLM Apps & AI-Agents with n8n & APIs"
+    instructor: "Arnold Oberleiter"
+    description: "Automate Everything: n8n, LLMs, OpenAI API, Claude, Ollama, MCP & RAG! Business & Private Agents; More than just ChatGPT"
+    badges:
+      - name: "Python"
+        icon: "img/ico/python.png"
 
 skills:
 #  - icon: fas fa-robot
