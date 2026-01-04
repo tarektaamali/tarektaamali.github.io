@@ -269,3 +269,55 @@ nav {
 h2 i {
   @apply text-gray-800 dark:text-gray-50;
 }
+
+/* Screenshot Modal Styles */
+.job-clickable {
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+}
+
+#screenshot-modal {
+  animation: fadeIn 0.3s ease-in-out;
+  
+  img {
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  #prev-image, #next-image {
+    &:hover {
+      transform: translateY(-50%) scale(1.1);
+    }
+  }
+  
+  #modal-dots button {
+    &:hover {
+      opacity: 1 !important;
+      transform: scale(1.2);
+    }
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

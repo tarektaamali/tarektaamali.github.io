@@ -49,6 +49,11 @@ jobs:
         icon: "img/ico/firebase.png"
     id: al_safwa
     link: https://play.google.com/store/apps/details?id=com.alsafwa.sfomra&hl=fr
+    screenshots:
+      # Add screenshot paths here, e.g.:
+       - "img/screenshots/alsaf1.png"
+       - "img/screenshots/alsaf2.png"
+      # - "img/screenshots/alsafwa-3.png"
   - date: "February 2025 - Juin 2025"
     company: "Myga Consulting"
     logo: "img/logo/myga_consulting_logo.jpeg"
