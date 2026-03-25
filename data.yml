@@ -103,27 +103,6 @@ jobs:
     link: https://www.inetum.com/fr/tunisie/
     id: topo
 
-  - date: "July 2021 - Oct 2021"
-    company: "MAD IMPACT"
-    logo: "img/logo/mad_impact_logo.jpeg"
-    arrow: 50
-    position: "Mobile Developer • Freelance • Remote"
-    description: "• Contributed to the development and maintenance of multiple cross-platform mobile applications, including PhotoOnline, Clic & Visit, FoodLine, and Côté Puce, ensuring performance, UI consistency, and API integration."
-    badges:
-      - name: "Flutter"
-        icon: "img/ico/flutter.png"
-      - name: "Kotlin"
-        icon: "img/ico/kotlin.png"
-      - name: "Android"
-        icon: "img/ico/android.png"
-      - name: "Firebase"
-        icon: "img/ico/firebase.png"
-      - name: "iOS"
-        icon: "img/ico/ios.png"  
-    id: big_tilt
-    link: https://mad-impact.com/
-
-
   - date: "Feb 2021 - Oct 2021"
     company: "AppsFactor"
     logo: "img/logo/appsfactor.jpeg"
@@ -279,15 +258,9 @@ references:
 
   - name: "Nidhal Abbassi"
     position: "CEO of Myga Consulting" # Or 'Head', 'Director', 'CEO' if that's his specific title at Myga Consulting
-    phone: "+33 xxxxxxxxxx" # You'll need to confirm this is his Mad Impact phone
+    phone: "+33 xxxxxxxxxx" # You'll need to confirm this is his phone
     email: "nidhal.abbassi@mygaconsulting.com" # Assuming domain; please verify
     relationship: "CEO of Myga Consulting"
-
-  - name: "Wajdi Madani"
-    position: "CEO of Mad Impact"
-    phone: "+33 646447789" # You'll need to confirm this is his Mad Impact phone
-    email: "contact@mad-impact.com" # Assuming domain; please verify
-    relationship: "CEO of Mad Impact"
 
 projects:
   - date: "2025 - In Progress"
