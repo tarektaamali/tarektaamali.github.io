@@ -262,6 +262,13 @@ references:
     email: "nidhal.abbassi@mygaconsulting.com" # Assuming domain; please verify
     relationship: "CEO of Myga Consulting"
 
+
+  - name: "Zied ElHlali"
+    position: "DG at Al-Safwa Voyages et Services"
+    phone: ""
+    email: ""
+    relationship: "DG of Al-Safwa"
+
 projects:
   - date: "2025 - In Progress"
     name: "Personal Finance Management"
